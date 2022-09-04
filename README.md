@@ -1,4 +1,4 @@
-# clean-code-javascript
+# JavaScript best practices
 
 ## Table of Contents
 
